@@ -21,8 +21,8 @@ git push -u origin main <br />
 
 i had hosted it on render. <br/>
 
-#EXTRAS: for hosting on github pages :-
-#for hosting visit below link  
+#EXTRAS: for hosting on github pages :- <br/>
+#for hosting visit below link  <br/>
 #https://create-react-app.dev/docs/deployment/#github-pages
 
 #in package.json file add below line
