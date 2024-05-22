@@ -22,7 +22,7 @@ git push -u origin main <br />
 for hosting visit below link  
 https://create-react-app.dev/docs/deployment/#github-pages
 
-in package.json file add below line
+`in package.json file add below line
 "homepage": "https://snowden7not.github.io/gif",
 
 npm install --save gh-pages <br />
@@ -35,4 +35,5 @@ npm run deploy <br />
 
 (Note: if u ever want to change ui . change in code of gh-pages branch (NOT main branch), as change in main branch get stored, but not get hosted )
 
-refresh ur github page website . u will see ,ur website is hosted.
+refresh ur github page website . u will see ,ur website is hosted.`<br/>
+i had hosted it on render.
