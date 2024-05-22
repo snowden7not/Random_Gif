@@ -19,21 +19,23 @@ git branch -M main <br />
 git remote add origin https://github.com/snowden7not/gif.git <br />
 git push -u origin main <br />
 
-for hosting visit below link  
-https://create-react-app.dev/docs/deployment/#github-pages
+i had hosted it on render. <br/>
 
-`in package.json file add below line
-"homepage": "https://snowden7not.github.io/gif",
+#EXTRAS: for hosting on github pages :-
+#for hosting visit below link  
+#https://create-react-app.dev/docs/deployment/#github-pages
 
-npm install --save gh-pages <br />
+#in package.json file add below line
+#"homepage": "https://snowden7not.github.io/gif",
 
-in scripts of package.json file add below line
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build",
+#npm install --save gh-pages <br />
 
-npm run deploy <br />
+#in scripts of package.json file add below line
+#"predeploy": "npm run build",
+#"deploy": "gh-pages -d build",
 
-(Note: if u ever want to change ui . change in code of gh-pages branch (NOT main branch), as change in main branch get stored, but not get hosted )
+#npm run deploy <br />
 
-refresh ur github page website . u will see ,ur website is hosted.`<br/>
-i had hosted it on render.
+#(Note: if u ever want to change ui . change in code of gh-pages branch (NOT main branch), as change in main branch get stored, but not get hosted )
+
+#refresh ur github page website . u will see ,ur website is hosted.`<br/>
